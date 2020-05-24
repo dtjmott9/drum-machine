@@ -28,12 +28,9 @@
     font-size: 25px;
     padding: 20px;
     text-align: center;
+    text-transform: uppercase;
     background-color: teal;
     box-shadow: gray 2px 2px;
-}
-
-.drum-pad-pressed {
-    box-shadow: none;
 }
 
 #sound {
